@@ -1,0 +1,44 @@
+<yml_catalog>
+<shop>
+<name>firstname #358749 lastname #358749</name>
+<company>JSC "Star Wars" 358749</company>
+<currencies>
+<currency id="RUR" rate="1" plus="0"/>
+</currencies>
+<offers>
+<offer id="им01" available="true">
+<price>110</price>
+<nds>20</nds>
+<name>товар импорт 1</name>
+<description>импорт по ссылке</description>
+<idToImport></idToImport>
+<b2b_category_id>281083</b2b_category_id>
+<vendor>Комус</vendor>
+<unitName>Штука</unitName>
+<analogGID></analogGID>
+</offer>
+<offer id="им02" available="true">
+<price>120</price>
+<nds>20</nds>
+<name>товар импорт 2</name>
+<description>импорт по ссылке</description>
+<idToImport></idToImport>
+<b2b_category_id>281083</b2b_category_id>
+<vendor>Комус</vendor>
+<unitName>Штука</unitName>
+<analogGID></analogGID>
+</offer>
+<offer id="им03" available="true">
+<price>130</price>
+<nds>20</nds>
+<name>товар импорт 3</name>
+<description>импорт по ссылке</description>
+<idToImport></idToImport>
+<b2b_category_id>281083</b2b_category_id>
+<vendor>Комус</vendor>
+<unitName>Штука</unitName>
+<analogGID></analogGID>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
